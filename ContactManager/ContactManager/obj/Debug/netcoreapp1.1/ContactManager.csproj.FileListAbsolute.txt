@@ -1,0 +1,11 @@
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\ContactManager\ContactManager\bin\Debug\netcoreapp1.1\ContactManager.deps.json
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\ContactManager\ContactManager\bin\Debug\netcoreapp1.1\ContactManager.runtimeconfig.json
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\ContactManager\ContactManager\bin\Debug\netcoreapp1.1\ContactManager.runtimeconfig.dev.json
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\ContactManager\ContactManager\bin\Debug\netcoreapp1.1\ContactManager.dll
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\ContactManager\ContactManager\bin\Debug\netcoreapp1.1\ContactManager.pdb
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\ContactManager\ContactManager\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\ContactManager\ContactManager\obj\Debug\netcoreapp1.1\ContactManager.AssemblyInfo.cs
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\ContactManager\ContactManager\obj\Debug\netcoreapp1.1\ContactManager.dll
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\ContactManager\ContactManager\obj\Debug\netcoreapp1.1\ContactManager.pdb
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\ContactManager\ContactManager\obj\Debug\netcoreapp1.1\ContactManager.csproj.CoreCompileInputs.cache
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\ContactManager\ContactManager\obj\Debug\netcoreapp1.1\ContactManager.csprojResolveAssemblyReference.cache
