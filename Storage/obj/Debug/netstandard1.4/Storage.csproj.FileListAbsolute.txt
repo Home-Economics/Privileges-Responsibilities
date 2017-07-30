@@ -1,0 +1,10 @@
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\Storage\bin\Debug\netstandard1.4\HomeEconomics.Storage.deps.json
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\Storage\obj\Debug\netstandard1.4\Storage.csproj.CoreCompileInputs.cache
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\Storage\obj\Debug\netstandard1.4\Storage.AssemblyInfo.cs
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\Storage\bin\Debug\netstandard1.4\HomeEconomics.Storage.dll
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\Storage\obj\Debug\netstandard1.4\Storage.csprojResolveAssemblyReference.cache
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\Storage\bin\Debug\netstandard1.4\HomeEconomics.Storage.pdb
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\Storage\bin\Debug\netstandard1.4\HomeEconomics.Models.dll
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\Storage\bin\Debug\netstandard1.4\HomeEconomics.Models.pdb
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\Storage\obj\Debug\netstandard1.4\HomeEconomics.Storage.dll
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\Storage\obj\Debug\netstandard1.4\HomeEconomics.Storage.pdb

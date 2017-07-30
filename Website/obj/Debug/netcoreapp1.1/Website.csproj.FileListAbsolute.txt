@@ -1,0 +1,15 @@
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\Website\obj\Debug\netcoreapp1.1\Website.csprojResolveAssemblyReference.cache
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\Website\obj\Debug\netcoreapp1.1\Website.csproj.CoreCompileInputs.cache
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\Website\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\Website\obj\Debug\netcoreapp1.1\Website.AssemblyInfo.cs
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\Website\bin\Debug\netcoreapp1.1\HomeEconomics.Website.deps.json
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\Website\bin\Debug\netcoreapp1.1\HomeEconomics.Website.runtimeconfig.json
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\Website\bin\Debug\netcoreapp1.1\HomeEconomics.Website.runtimeconfig.dev.json
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\Website\bin\Debug\netcoreapp1.1\HomeEconomics.Website.dll
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\Website\bin\Debug\netcoreapp1.1\HomeEconomics.Website.pdb
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\Website\obj\Debug\netcoreapp1.1\HomeEconomics.Website.dll
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\Website\obj\Debug\netcoreapp1.1\HomeEconomics.Website.pdb
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\Website\bin\Debug\netcoreapp1.1\HomeEconomics.Models.dll
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\Website\bin\Debug\netcoreapp1.1\HomeEconomics.Models.pdb
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\Website\bin\Debug\netcoreapp1.1\HomeEconomics.Storage.dll
+F:\git\github.com\Home-Economics\Privileges-Responsibilities\Website\bin\Debug\netcoreapp1.1\HomeEconomics.Storage.pdb
